@@ -30,6 +30,7 @@ html {
 @media only screen and (max-width: 620px) {
   #dolphin{
     top:400px;
+    transform: none;
   }
 
 }
